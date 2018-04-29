@@ -106,7 +106,7 @@ venv.bak/
 .mypy_cache/
 
 #vscode settings
-vscode/
+.vscode/
 
 /notebooks/data.ipynb
 /notebooks/lda_tfidf_v1.0.ipynb
